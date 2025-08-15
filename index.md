@@ -34,6 +34,8 @@ Hi! My name is [Your Full Name].
 <a href="https://vscode.dev/" class="button small" style="background-color: #4bd371ff">
     <span style="color: #FFFFFF">VSCODE</span>
 </a>
+<button type="button">Click Me</button>
+</a>
 
 <br>
 
